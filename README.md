@@ -1,7 +1,7 @@
-﻿# Belajar Docker bersama Programmer Zaman Now
+# Belajar Docker bersama Programmer Zaman Now
 
-![Docker](https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png)
-![Programmer Zaman Now]([https://www.programmerzamannow.com/](https://yt3.ggpht.com/a/AATXAJzVlrveSWwW36TZWh32k1km1730tSZq4cXzW51hLA=s900-c-k-c0xffffffff-no-rj-mo))
+![Docker](./Asset-Logo/Docker.png)
+![Programmer Zaman Now](./Asset-Logo/PZN.jpg)
 
 Selamat datang di repository ini! Repository ini berisi materi-materi belajar Docker yang diambil dari channel YouTube [Programmer Zaman Now][def]
 
