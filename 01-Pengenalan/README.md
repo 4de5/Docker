@@ -1,7 +1,7 @@
 # Pengenalan Docker Container
 ## Kasus Deployment Aplikasi
 ### Deployment VM
-- ![VM Photo](../Asset-Logo/VM-Kerangka.png)
+![VM Photo](../Asset-Logo/VM-Kerangka.png)
 - Dalam Deployment Aplikasi biasanya kita perlu menyiapkan distribusi aplikasinya(yang sudah di build, misal di Java ada .jar, di Golang ada Biner File .exe)
 - Lalu menyiapkan di sisi server Production yaitu install OS di server, library, runtime mesin(JVM di Java), database, webserver(apache tomcat misal).
 
