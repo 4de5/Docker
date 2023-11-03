@@ -81,9 +81,9 @@ Berikut adalah beberapa perintah Command Line Interface (CLI) dasar yang serupa 
     ```
 
 9. `history`: Untuk menampilkan daftar perintah yang telah dieksekusi sebelumnya.
-```bash
-history
-```
+    ```bash
+    history
+    ```
 
 ## Mengerti tentang Virtual Machine
 

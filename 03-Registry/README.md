@@ -1,5 +1,7 @@
 # Container Registry
+
 ![Docker Arch.](../Asset-Logo/Docker-Architecture.png)
+
 - Docker Registry adalah tempat kita menyimpan Docker Image
 - Dengan menggunakan Docker Registry, kita bisa menyimpan Image yang kita buat, dan bisa digunakan di Docker Daemon dimanapun selama bisa terkoneksi ke Docker Registry
 - Bisa juga upload ke Registry untuk di gunakan orang lain
