@@ -22,6 +22,7 @@ Analogi yang cocok untuk sistem operasi adalah seorang manajer di sebuah perusah
 ## Mengerti cara menginstall aplikasi
 - Untuk menginstall di Windows dan Mac, kita bisa menggunakan Docker Desktop https://docs.docker.com/get-docker/ 
 - Untuk Linux, kita bisa install dari repository sesuai distro linux masing-masing https://docs.docker.com/engine/install/ 
+- Untuk Cek Docker `docker version`(lengkap tapi jalankan dulu app-nya), `docker --version`, `docker -v`
 
 
 ## Mengerti cara menggunakan perintah di terminal / command line
